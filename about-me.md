@@ -1,4 +1,4 @@
-# About Moi
+# About Me
 
 ![Picture of me](http://kevinmhoffman.com/i/kevin.png)
 
