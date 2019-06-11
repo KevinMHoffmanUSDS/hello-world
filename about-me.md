@@ -2,7 +2,7 @@
 
 ![Picture of me](http://kevinmhoffman.com/i/kevin.png)
 
-Hi, I'm [Kevin M. Hoffman](http://kevinmhoffman.com). I'm a maker of awesomeness at *Veteran's Affair, United States Digital Services*.
+Hi, I'm [Kevin M. Hoffman](http://kevinmhoffman.com). I'm a maker of awesomeness at *Veteran's Affairs, United States Digital Service.*.
 - **Past Companies and Organizations:**
     - Capital One
     - Boardthing
@@ -15,5 +15,6 @@ Hi, I'm [Kevin M. Hoffman](http://kevinmhoffman.com). I'm a maker of awesomeness
     - Stories
     - Foods
     - Living without a gall bladder
-- **Favorite Website:** 
+- **Favorite Websites:** 
     - [IO9](https://io9.gizmodo.com/)
+    - [Recode](https://recode.com/)
