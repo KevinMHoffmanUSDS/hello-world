@@ -1,9 +1,8 @@
 # About Me
 
-![Picture of me]()
+![Picture of me](http://kevinmhoffman.com/i/kevin.png)
 
-Hi, I'm Charlene Bernard. I'm a ________ at *__________*.
-
+Hi, I'm Kevin M. Hoffman. I'm a maker of awesomeness at *Veteran's Affair, United States Digital Services*.
 - **Past Companies and Organizations:**
 - **Hobbies:**
 - **Favorite Website:** []()
