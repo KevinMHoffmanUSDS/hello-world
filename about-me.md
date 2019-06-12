@@ -17,4 +17,4 @@ Hi, I'm [Kevin M. Hoffman](http://kevinmhoffman.com). I'm a maker of awesomeness
     - Living without a gall bladder
 - **Favorite Websites:** 
     - [IO9](https://io9.gizmodo.com/)
-    - [Recode](https://recode.com/)
+    - [Recode](https://vox.com/recode/)
