@@ -1,6 +1,6 @@
 # About Me
 
-![Picture of me](http://kevinmhoffman.com/i/kevin.png)
+<img src="http://kevinmhoffman.com/i/kevin.png" width="125">
 
 Hi, I'm [Kevin M. Hoffman](http://kevinmhoffman.com). I'm a maker of awesomeness at *Veteran's Affairs, United States Digital Service.*.
 - **Past Companies and Organizations:**
